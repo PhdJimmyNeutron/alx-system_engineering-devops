@@ -4,3 +4,4 @@ There is no place like home
 The long format
 Hidden files
 Welcome
+Betty in my first directory
