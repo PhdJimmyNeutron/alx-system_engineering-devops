@@ -5,3 +5,4 @@ The long format
 Hidden files
 Welcome
 Betty in my first directory
+Bye bye Betty
